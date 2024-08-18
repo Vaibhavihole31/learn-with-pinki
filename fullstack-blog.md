@@ -29,5 +29,3 @@
 14. [Building Search, Filter, and Sorting Functionality on a Table in React](https://medium.com/@Vaibhavihole31/building-search-filter-and-sorting-functionality-on-a-table-in-react-d3d38a73668a)
 
 14. [Optimizing Web Performance with Caching](https://medium.com/@Vaibhavihole31/optimizing-web-performance-with-caching-fbc70fb9be38)
-
-15. 
