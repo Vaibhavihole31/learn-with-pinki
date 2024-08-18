@@ -1,3 +1,5 @@
-## Introduction to AWS
+**Dive into the basics of AWS, the leading cloud service provider. This blog helping you get started with cloud computing.**
 
-https://medium.com/@Vaibhavihole31/introduction-to-aws-0aee1dbe0a41
+![Introduction to AWS](https://medium.com/@Vaibhavihole31/introduction-to-aws-0aee1dbe0a41)
+
+---
