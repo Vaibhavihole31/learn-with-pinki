@@ -28,4 +28,8 @@
 
 14. [Building Search, Filter, and Sorting Functionality on a Table in React](https://medium.com/@Vaibhavihole31/building-search-filter-and-sorting-functionality-on-a-table-in-react-d3d38a73668a)
 
-14. [Optimizing Web Performance with Caching](https://medium.com/@Vaibhavihole31/optimizing-web-performance-with-caching-fbc70fb9be38)
+15. [Optimizing Web Performance with Caching](https://medium.com/@Vaibhavihole31/optimizing-web-performance-with-caching-fbc70fb9be38)
+
+16. [Optimizing Web Performance with Caching](https://medium.com/@Vaibhavihole31/optimizing-web-performance-with-caching-fbc70fb9be38)
+
+17. [How to Create and Publish a React Library on npm: A Step-by-Step Guide](https://medium.com/@Vaibhavihole31/how-to-create-and-publish-a-react-library-on-npm-a-step-by-step-guide-0f99e5a956de)
