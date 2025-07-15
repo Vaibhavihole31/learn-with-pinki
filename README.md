@@ -4,7 +4,7 @@ Welcome to my Learning Repository! This is a collection of all the blogs I've wr
 
 I regularly update this repository with new blogs, so feel free to check back for fresh content!
 
-### 📖 Categories:
+### 📖 Categories: 
 
 - **Web Development**: Explore my blogs on front-end and back-end development, including frameworks like ReactJS, Express, and NodeJS.
 - **Cloud Computing**: Get insights into AWS cloud concepts, certifications, and deployment strategies.
