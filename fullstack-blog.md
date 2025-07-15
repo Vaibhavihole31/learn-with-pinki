@@ -1,6 +1,6 @@
 1. [RESTful API Mastery: Best Practices](https://medium.com/@Vaibhavihole31/restful-api-mastery-best-practices-caca948d0414)
 
-2. [Understanding Unstyled Headings in Tailwind CSS](https://medium.com/@Vaibhavihole31/understanding-unstyled-headings-in-tailwind-css-140bc1394185)
+2. [Understanding Unstyled Headings in Tailwind CSS](https://medium.com/@Vaibhavihole31/understanding-unstyled-headings-in-tailwind-css-140bc1394185) 
 
 3. [Implementing Promise, Promise.all(), Promise.any() in Javascript](https://medium.com/@Vaibhavihole31/implementing-promise-promise-all-promise-any-in-javascript-a162160ec374)
 
